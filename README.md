@@ -2,6 +2,8 @@
 
 You must push BEFORE 2:30pm or your answers will not be graded. Once you finish, do not leave the property. You will be interviewed about your questions at 2:45pm.
 
+DON'T FORGET TO USE THE assessment_handout.txt FILE.
+
 Do NOT use any notes or previous projects on this test. Each individual question file has the same questions as the README.
 ### Problem 1:
 Ask a user for the year they were born by calculating their age. Assuming they already had their birthday and it’s 2019 print “You are [AGE] years old”
